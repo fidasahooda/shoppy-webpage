@@ -94,3 +94,11 @@ nav ul li a:hover{
 .product-info p.price{
     color: green;
 }
+footer{
+    background-color: #333;
+    color: white;
+    width: 100%;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+}
